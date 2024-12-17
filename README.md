@@ -13,7 +13,7 @@
 - Class 0 = Healthy Loans        
 - Class 1 = High-Risk-Loans
 
-Class 0 Precision     | Class 1 Precison
+Class 0 Precision     | Class 1 Precision
 --------------------- | ---------------------
 1.00 or 100%          | 0.94 or 94%
  
