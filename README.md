@@ -1,6 +1,6 @@
 # Credit Risk Analysis #
 
-## Over view of the Analysis ## 
+## Overview ## 
 - The purpose of the analysis is to use the historical lending data to predict if a loan is healthy or high risk. This is used to help the company minimize financial risk. 
 - Data was prepped by loading into jupyter using pandas. Then, it was split inot training and testing sets to evaluate the performance. 
 - Logistic Regression algorithm was used and is effective for binary classification tasks, in this case, to predict healthy or high-risk loans. The trained logistic regression model was used to make predictions on the dataset. 
